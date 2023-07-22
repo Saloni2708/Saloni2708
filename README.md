@@ -8,7 +8,7 @@ I thrive on diving deep into data, uncovering patterns, and extracting valuable 
 
 
 ### Skills
-- Data Analysis: Pandas, NumPy, SQL, Python
+- Data Analysis: Pandas, NumPy, SQL, Python , Excel
 - Data Visualization: Matplotlib, Seaborn, Tableau
 - Data Cleaning and Preprocessing
 - Statistical Analysis 
