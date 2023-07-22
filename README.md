@@ -8,11 +8,10 @@ I thrive on diving deep into data, uncovering patterns, and extracting valuable 
 
 
 ### Skills
-- Data Analysis: Pandas, NumPy, SQL
+- Data Analysis: Pandas, NumPy, SQL, Python
 - Data Visualization: Matplotlib, Seaborn, Tableau
 - Data Cleaning and Preprocessing
-- Statistical Analysis and Hypothesis Testing
-
+- Statistical Analysis 
 
 ### Let's Connect!
 I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the world of data analytics. Feel free to reach out to me via email at mehta.salony26@gmail.com
