@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Hi there! 👋 I'm Saloni Mehta, a Data Analyst with a passion for turning raw data into actionable insights.
 
