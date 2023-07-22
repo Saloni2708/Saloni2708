@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Saloni2708/Saloni2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋 I'm Saloni Mehta, a Data Analyst with a passion for turning raw data into actionable insights.
 
-Here are some ideas to get you started:
+### About Me
+I thrive on diving deep into data, uncovering patterns, and extracting valuable insights that drive informed decision-making. With a strong background in statistics and programming, I excel at transforming complex datasets into clear visualizations and concise reports.I’m currently learning Machine learning & Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Skills
+- Data Analysis: Pandas, NumPy, SQL
+- Data Visualization: Matplotlib, Seaborn, Tableau
+- Data Cleaning and Preprocessing
+- Statistical Analysis and Hypothesis Testing
+
+
+### Let's Connect!
+I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the world of data analytics. Feel free to reach out to me via email at mehta.salony26@gmail.com
+Looking forward to exploring the endless possibilities of data together! 😄
+
+
