@@ -13,7 +13,7 @@ I thrive on diving deep into data, uncovering patterns, and extracting valuable 
 - Statistical Analysis 
 
 ### Let's Connect!
-I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the world of data analytics. Feel free to reach out to me via email at mehta.salony26@gmail.com
+I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the world of data analytics. Feel free to reach out to me via email at saloni.mehta2727@gmail.com
 Looking forward to exploring the endless possibilities of data together! 😄
 
 
